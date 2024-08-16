@@ -1,0 +1,6 @@
+id = "iceberg"
+name = "Iceberg Theme"
+schema_version = 1
+version = "0.2.10"
+authors = ["Douglas Muratore <douglas.muratore@gmail.com>"]
+description = "Iceberg is well-designed, bluish color scheme for Vim/Neovim and now, Zed."
